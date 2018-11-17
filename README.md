@@ -1,2 +1,2 @@
 # luck_draw
-luck
+this is a lucky project!
